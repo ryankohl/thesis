@@ -130,10 +130,61 @@ III. Analysis of [Manley Wasserman 2007]
 5. Potential sources of aid:
   - vagueness in dispositional ascriptions (pp 23)
   - when intuitions of proportion fail (as with the multi-dimensional case), there may be reason to reassess the original dispositional ascription
-	
-IV. Synthesis
+
+IV. Analysis of [Mumford Anjum 2011]
+---
+1. "X is a cause of Y" (pp 2)
+  - means that X is something that disposes towards Y
+  - means that X does not necessitate Y
+	  * thus, something could have prevented Y from occuring
+  - means more than Y is possible
+  - X is a cause of Y to a certain degree, which can be greater, lesser, or equal to that of another cause of Y
+	  * the gradation of causal force is often conveyed by (conditional) probabilities
+  - Conventional representations of causal situations (e.g. neuron diagrams and structural equations) fail to adequately account for the above complications
+2. Powers can be represented by vectors defined on a quality space
+  - Causation involves properties, and frequently a change in property (pp 3)
+	  * ex/ an increase in temperature, a decrease in volume
+  - Let S be a property space, and F,G be points at opposite extremes of S
+	  * Vector Magnitude: represents the degree of causal force (e.g. probability)
+	  * Vector Direction: represents the kind of manifestation, F or G the disposition aims at
+	  * Vector Addition: represents the total causal effect of a (polygenic) situation
+   - A vector represents an active disposition
+	  * a vector can be inactive, but this is different from a passivist notion of being unstimulated (pp 5).  
+3. An active causal situation may yield no manifestation (pp 5)
+   - If the sum of the participant vectors in a situation 'cancel each other out', then there is no overall disposition towards either extreme of a property space.
+   - Referred to as a 'causation of absence'
+4. Special values in the property space can be singled out as thresholds
+   - Sometimes these thresholds indicate a physical event, such as the boiling point of water
+   - Other times these indicate a goal, like a comfortable setting for a thermostat
+5. Vectors can be defined in multi-dimensional property spaces
+   - Sometimes an apparantly multi-dimensional situation can be broken down into a conjunction of single-dimensional cases (pp 9)
+   - Other times, a disposition could essentially vary across two or more property spaces, in which case multi-dimensional vectors are called for.
+	   * N-dimensional (N>2) cases are represented by 3-dimensional polyhedra of 2^N sides
+6. Probabilistic causation is represented as a disposition towards event occurrences (pp 9)
+   - Consider the disposition of a flipped coin to land:
+	   * Define an event space with two outcomes, Heads and Tails
+	   * Define a two-headed vector, two heads with equal magnitude and opposite direction.
+	   * Interpret the vector magnitudes as probabilities, summing to unity
+   - Consider the disposition of a loaded die rolling on a table:
+	   * Define an event space with six outcomes
+	   * define a six-headed vector, each head pointing at some outcome
+	   * the sum of the vector's magnitudes sum to unity, but are not all equal
+> question: assume a wizard intervenes as the dice is rolled, dramatically increasing the chance that a 'six' results.  Does he have a choice in whether he only modifies the head of the vector pointing towards 'six', and the other five heads adjust accordingly (in order to sum to unity)?  Or, does the wizard necessarily have to account for each other head?  If other vectors were involved, would the wizard necessarily have to account for these as well?
+7. Causation by absence (pp 10)
+   - Dispositions can be active without (apparent) stimuli.  
+   - Interventions into a causal situation can nullify a disposition (represented by vector addition).
+   - If an intervention does not take place, then the unimpeded disposition can go ahead and cause a manifestation to occur.
+> ex/ If I forget to water a flower for a month, did I cause it to wilt?  I may be guilty, but the cause was the plant's dispositions (particularly, its dispositions to consume water and to wilt when dry).  However, it is water's power to impede these dispositions and my ability and responsibility to bring water the plant that both explains my guilt and makes the following counterfactual true: "if I had watered the plant, it might not have died."
+8. Not all vectors can be happily added (pp 12)
+   - Consider a property space with two extremes: being happy and being sad
+	   * eating a chocolate bar disposes somebody to be happy
+	   * eating ten chocolate bars disposes somebody to be sad
+   - Only some property spaces are linear, accomodating vector addition
+   - Other property spaces require a different notion of dispositional composition
+
+V. Synthesis
 ---
 
-V. Conclusion
+VI. Conclusion
 ---
 

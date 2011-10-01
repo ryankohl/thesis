@@ -70,13 +70,11 @@ II. Analysis of [Lowe 2011]
   - One fix is to leave behind the CA altogether
 2. Dispositions do not have stimuli/triggers (pp 5)
   - Replace the material/subjunctive conditional with a causal predicate
-  
-```   ex/ 
-     "X is soluble iff if X is placed is water then X is dissolving."
-     Remove the predicates "is placed in water", "is dissolving"
-     Replace with "is dissolved by water"
-     Reformulate: "X is soluble" iff "X can be dissolved by water"
-```
+  - e.g.
+	* "X is soluble iff if X is placed is water then X is dissolving."
+	* Remove the predicates "is placed in water", "is dissolving"
+	* Replace with "is dissolved by water"
+	* Reformulate: "X is soluble" iff "X can be dissolved by water"
   - A manifestation is a causal state of affairs (pp 6)
      * A conditional does not causally link a stimulus with a manifestation (pp 8)
 	 * The circumstances of a disposition's manifestation may be varied, and thus difficult to capture as a simple conditional.  The complexity of the conditional structure would need to match the complexity of the underlying causal state of affairs.  Because the dissolution of salt in water is complicated, the failure of "is placed in water" to be a satisfactory stimulus is unsurprising. (pp 9)
@@ -164,18 +162,12 @@ IV. Analysis of [Mumford Anjum 2011]
 	   * Define an event space with six outcomes
 	   * define a six-headed vector, each head pointing at some outcome
 	   * the sum of the vector's magnitudes sum to unity, but are not all equal
-	   
-```
-question: assume a wizard intervenes as the dice is rolled, dramatically increasing the chance that a 'six' results.  Does he have a choice in whether he only modifies the head of the vector pointing towards 'six', and the other five heads adjust accordingly (in order to sum to unity)?  Or, does the wizard necessarily have to account for each other head?  If other vectors were involved, would the wizard necessarily have to account for these as well?
-```
+	   * question: assume a wizard intervenes as the dice is rolled, dramatically increasing the chance that a 'six' results.  Does he have a choice in whether he only modifies the head of the vector pointing towards 'six', and the other five heads adjust accordingly (in order to sum to unity)?  Or, does the wizard necessarily have to account for each other head?  If other vectors were involved, would the wizard necessarily have to account for these as well?
 7. Causation by absence (pp 10)
    - Dispositions can be active without (apparent) stimuli.  
    - Interventions into a causal situation can nullify a disposition (represented by vector addition).
    - If an intervention does not take place, then the unimpeded disposition can go ahead and cause a manifestation to occur.
-   
-```
-ex/ If I forget to water a flower for a month, did I cause it to wilt?  I may be guilty, but the cause was the plant's dispositions (particularly, its dispositions to consume water and to wilt when dry).  However, it is water's power to impede these dispositions and my ability and responsibility to bring water the plant that both explains my guilt and makes the following counterfactual true: "if I had watered the plant, it might not have died."
-```
+   - ex/ If I forget to water a flower for a month, did I cause it to wilt?  I may be guilty, but the cause was the plant's dispositions (particularly, its dispositions to consume water and to wilt when dry).  However, it is water's power to impede these dispositions and my ability and responsibility to bring water the plant that both explains my guilt and makes the following counterfactual true: "if I had watered the plant, it might not have died."
 8. Not all vectors can be happily added (pp 12)
    - Consider a property space with two extremes: being happy and being sad
 	   * eating a chocolate bar disposes somebody to be happy

@@ -256,21 +256,27 @@ VI. Synthesis
 
 ```
 ex/ 
-	Henry is standing with a vase in his hands in a room full of hammers.  His brother, Paul, is standing with a similar vase in a room full of feathers.  Both Henry and Paul can break his vase by dropping it from over his head, throwing it against the wall, and stomping on it.  However, Henry has a few more options (at least one for each hammer in his room).
+Henry is standing with a vase in his hands in a room full of hammers.  
+His brother, Paul, is standing with a similar vase in a room full of feathers. 
+Both Henry and Paul can break his vase by dropping it from over his head,
+throwing it against the wall, and stomping on it.  However, Henry has a few
+more options (at least one for each hammer in his room).
 	
-	Affordance: ability to break a vase
-	Disposition: fragility
-	Definition: can by shattered by the application of force
-	Relevant Causal Processes: dropping, throwing, stomping, hitting with hammer
-	Assume all relevant causal processes have indistinguishable effects.
-	Let H be the causal liklihood of Henry's vase shattering.
-	Let P be the causal liklihood of Paul's vase shattering.
-	Let X be the causal liklihood of hitting Henry's vase with a hammer.
-	Assume X > 0.
-	H= P+X
-	.: H > P
-	Note that each relevant causal process involves both the actor (Paul or Henry) and a part of the actor's environment (the rooms and their contents).
-	.: Both rooms afford Henry and Paul the ability to break a vase.  Henry's room affords a stronger opportunity to do so.
+Affordance: ability to break a vase
+Disposition: fragility
+Definition: can by shattered by the application of force
+Relevant Causal Processes: dropping, throwing, stomping, hitting with hammer
+Assume all relevant causal processes have indistinguishable effects.
+Let H be the causal liklihood of Henry's vase shattering.
+Let P be the causal liklihood of Paul's vase shattering.
+Let X be the causal liklihood of hitting Henry's vase with a hammer.
+Assume X > 0.
+H= P+X
+.: H > P
+Note that each relevant causal process involves both the actor (Paul or Henry)
+and a part of the actor's environment (the rooms and their contents).
+.: Both rooms afford Henry and Paul the ability to break a vase.  Henry's room
+affords a stronger opportunity to do so.
 ```
 
 VII. Conclusion

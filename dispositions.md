@@ -224,6 +224,39 @@ V. Analysis of Manley Wasserman 2007
 
 VI. Synthesis
 ---
+1. Scarantino advocates the representation of affordances with dispositional predicates.  
+   * The truth value functions of these DPs depends on a set of background circumstances.  Background circumstances are described in terms of normalcy for a particular (kind of) environment.
+   * DPs entail subjunctive conditionals via conceptual necessity (as opposed to logical necessity).  
+   * Affordances are manifested by either 
+	   * an actor fulfilling an intention with the help of the environment
+	   * part of the environment causing an event that the actor participates in
+2. The use of subjunctive conditionals to define DPs runs into some serious problems
+3. Manley and Wasserman define DPs in terms of how many situations a manifestation would result.
+	   * Typically, a certain kind (or collection of kinds) of situation is called out as a stimulus case.  Out of all these stimulus cases, if the proportion of cases that lead to a manifestation exceed some threshold, then a disposition is present.
+   * Many DPs can be better understood by explaining their underlying Comparative DPs.
+	   * Fragility is better understood by explaining what it means for X to be less fragile than Y.
+   * Comparative DPs are defined using a scale for their stimulus cases
+	   * "is more fragile than" is defined on a scale for measuring the severity of impacts.  If X breaks over a narrower range of this scale than Y, then X is less fragile than Y.
+4. Lowe defines DPs in terms of causal predicates
+   * Instead of using a conjunction of conditional statements to convey the meaning of a DP, use causal predicates that convey the potential events that the object can participate in.
+	   * e.g. X is soluble iff X can be dissolved by water
+	   * The complexity here lies not in the dispositional predicate, but in the nature of dissolvings.
+5. Mumford and Anjum represent DPs as vectors towards events (construed as changes in a quality space)
+   * vector magnitude: probability of manifestation
+   * vector direction: kind of manifestation
+   * vector addition: polygenic effects in a linear quality space
+6. Affordances are dispositional predicates that relate to environments and actors as described by Scarantino.
+   * Dispositional predicates entail causal predications via conceptual necessity
+	   * causal predications are made true by causal processes
+   * dispositional predicates can be represented as vectors 
+	   * towards a kind of event 
+	   * with a magnitude defined on a scale for measuring the causal liklihood for that event kind
+		   * the causal liklihood of an event is based on the proportion of processes that culminate in an event of the relevant kind 
+		   * with affordances, the causal liklihood will have spatial and temporal neighborhood constraints that keep the processes relatively local
+
+```
+ex/ 
+```
 
 VII. Conclusion
 ---

@@ -123,6 +123,19 @@ IV. Analysis of Stoffregen 2003
 		* affordance: the opportunity to climb stairs
 		* intention: the desire to go to the upstairs library
 
+V. Analysis of Smith Varzi 2002 (Surrounding Space)
+---
+1. What's wrong
+  * The definition of a niche's medium depends too much on the metaphor of air or water 
+  * Retainers are too spatially-dependent in their definition to be affordances
+  * The double-hole thing doesn't do much explanatory work in clarifying what affordances are - too many corner cases seem to rise
+	* Such as the odd boundary betw animals and the air around them...there's no apparent bona fide point that distinguishes the air in my respiratory system and the air in front of me
+2. What's right
+ * Animal behavior seems to be precisely the connection between animals and their environment, particuarly in the relationship of affordance
+ * The idea that retainers are things that sort of protect the defining behaviors of an animal's environment from encroaching processes is interesting.  Take away the spatial aspect, and retainers might make sense in their negative role for affordance stability.
+ * Mediums taken as the things that support the animal's behavior in the environment can be generalized beyond air-water life support things to encompass exactly the affordances that define an animal's environment.
+ * The rest of the spatial stuff relating to the delineation of place is good and suitable for describing environments, although the topology stuff (like fiat convex hulls) might be out-of-place
+
 ??. Synthesis
 ---
 

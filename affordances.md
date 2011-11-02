@@ -111,6 +111,7 @@ IV. Analysis of Stoffregen 2003
   * Affordances are not properties of just the environment (pp 7)
 	* Direct perception is pretty important for affordance theories in ecological psychology.  If an animal can directly perceive an affordance as a dispositional property of an environment, it seems unlikely that the animal can simultaneously perceive its own (or another animal's) effectivity directly. 
 2. Affordances are emergent properties of the animal-environment system (pp 9)
+
 ``` 
 	let X be a staircase with property p, the height of its stairs
 	let Z be a person with property q, its leg length
@@ -118,6 +119,7 @@ IV. Analysis of Stoffregen 2003
 	let the relation between p and q entail that W has property h
 	:. h is an affordance of W iff neither X nor Z possesses h
 ```
+
   * The major difference with Turvey's theory is that the affordance is a non-dispositional property of the system (state of affairs) that supervenes on the relationship between relevant properties of the system's constituents.
   * Intentions are the complement of affordances (pp 11)
 	* Behavior is the result of the conjunction of an affordance and a complementary intention
@@ -127,12 +129,25 @@ IV. Analysis of Stoffregen 2003
 
 V. Analysis of Smith Varzi 2002 (Surrounding Space)
 ---
-1. What's wrong
+1. A niche is defined by a medium, a kind of tenant, and a retainer
+  * A medium is a substance spatially contained within a niche that is relevant to the behavior and survival of the niche's kind of tenant and encompasses its tenants.
+	* Mediums surround and are connected to their tenants.  Medium-tenant and medium-retainer contact is made possible due to the intervening space that partially constitutes the medium.  (pp 9)
+	* For example, the air inside a cave is a medium for bears that may dwell in that cave.  Although water is critical for a bear's survival, it is not part of the cave-niche's medium unless the bear swims in the water.
+	* A niche's medium carries all the defining properties of a niche vis-a-vis its tenants. (pp 10)
+  * A niche's kind of tenant determines the behavioral and survival processes that need to be supported by the a niche.  A cave may be a niche for a bear but not for a deer.
+	* In order for something to be a medium, tenants of the appropriate kind must be nearby the purported niche in some sense.  (pp 8)
+	* The difference between an empty bear home and a cave is that there is a reasonable chance that a bear will occupy that cave in the near future.
+  * A retainer ensures that a niche's medium remains present.
+	* A house ceases to be a home when its windows are shattered in the winter.  Without an intact retainer, the air temperature drops below a threshold required to support human survival.  Thereby the niche loses its medium due to a faulty retainer.
+	* Retainers are what Gibson calls affordances (pp 11) - they cause the medium of a niche to retain its defining properties vis-a-vis its tenants.
+	* "A retainer must be the boundary of a solid physical structure." (pp 11)
+2. Niches can be changed when the tenants of two or more niches interact.  The niches may combine, overlap, or change in size. (pp 21)
+3. What's wrong
   * The definition of a niche's medium depends too much on the metaphor of air or water 
   * Retainers are too spatially-dependent in their definition to be affordances
   * The double-hole thing doesn't do much explanatory work in clarifying what affordances are - too many corner cases seem to rise
 	* Such as the odd boundary betw animals and the air around them...there's no apparent bona fide point that distinguishes the air in my respiratory system and the air in front of me
-2. What's right
+4. What's right
  * Animal behavior seems to be precisely the connection between animals and their environment, particuarly in the relationship of affordance
  * The idea that retainers are things that sort of protect the defining behaviors of an animal's environment from encroaching processes is interesting.  Take away the spatial aspect, and retainers might make sense in their negative role for affordance stability.
  * Mediums taken as the things that support the animal's behavior in the environment can be generalized beyond air-water life support things to encompass exactly the affordances that define an animal's environment.

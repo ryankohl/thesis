@@ -88,6 +88,7 @@ III. Analysis of Turvey 1992
 	* all dispositions come in pairs - a capability and an effectivity
 	* whether a disposition is considered a capability or an effectivity vis a vis its complement depends on the focus of the particular analysis (ie who is considered to be active, and who is acted upon). (pp 7,8)
 	* the product of the JOIN function exhibits the manifestation of a disposition
+	
 ```	
 Refractivity: light rays are refractable iff some things are refractive (pp 6,7)
 	  let X be a light ray, p be X's refractability
@@ -97,6 +98,7 @@ Refractivity: light rays are refractable iff some things are refractive (pp 6,7)
 	  and W possesses neither p nor qj
 	  
 ```
+
 3. Theory of affordances (pp 8)
   * An affordance is a disposition of a surface layout, whose complement is a disposition of a particular animal
   * "A disposition is tantamount to an actual state of affairs minus particular conditions.  When the missing conditions are provided, actuality ensues." (pp 7)
